@@ -12,7 +12,7 @@ st.write("""
 This app gives largest number from given three input numbers
 """)
 
-st.header('User Input Parameters)
+st.header('User Input Parameters')
 
 def user_input_features():
     
